@@ -1,2 +1,2 @@
 # Practice
-some basic programs for practice and build up my skills 
+some basic programs for practice and for building up my skills 
