@@ -11,6 +11,8 @@ Just like git add, you can unstage files recursively by directory and so forth, 
 
 git reset HEAD -- .
 Also, for future reference, the output of git status will tell you the commands you need to run to move files from one state to another.
+now it is time to learn git hub
+getting confused day by day
 155
 
 
