@@ -3,3 +3,12 @@ whats up
 my name is khan
 feature 3 changes has been added
 my father is a poor farmer
+hello again
+You can unstage files from the index using
+
+git reset HEAD -- path/to/file
+Just like git add, you can unstage files recursively by directory and so forth, so to unstage everything at once, run this from the root directory of your repository:
+
+git reset HEAD -- .
+Also, for future reference, the output of git status will tell you the commands you need to run to move files from one state to another.
+>>>>>>> master
