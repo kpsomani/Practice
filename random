@@ -1,5 +1,8 @@
 hello random
 whats up
+my name is khan
+feature 3 changes has been added
+my father is a poor farmer
 hello again
 You can unstage files from the index using
 
@@ -8,3 +11,4 @@ Just like git add, you can unstage files recursively by directory and so forth, 
 
 git reset HEAD -- .
 Also, for future reference, the output of git status will tell you the commands you need to run to move files from one state to another.
+>>>>>>> master
