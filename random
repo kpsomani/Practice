@@ -1,25 +1,2 @@
-hello random
-whats up
-my name is khan
-feature 3 changes has been added
-my father is a poor farmer
-hello again
-You can unstage files from the index using
 
-git reset HEAD -- path/to/file
-Just like git add, you can unstage files recursively by directory and so forth, so to unstage everything at once, run this from the root directory of your repository:
-
-git reset HEAD -- .
-Also, for future reference, the output of git status will tell you the commands you need to run to move files from one state to another.
-now it is time to learn git hub
-getting confused day by day
-155
-
-
-If you've already committed a bunch of unwanted files, you can unstage them and tell git to mark them as deleted (without actually deleting them) with
-
-git rm --cached -r .
---cached tells it to remove the paths from staging and the index without removing the files themselves and -r operates on directories recursively. You can then git add any files that you want to keep tracking.
-
-
-Important updates.
+feature1
